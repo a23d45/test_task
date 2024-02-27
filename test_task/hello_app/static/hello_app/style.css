@@ -1,0 +1,20 @@
+* 
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hello_div 
+{  
+    margin-top: 30px;
+    text-align: center;
+}
+
+.hello_div h1 
+{
+    font-size: 35px;
+}
+
+.hello_div p 
+{
+    font-size: 25px;
+}
